@@ -1,0 +1,17 @@
+﻿  Chair.cpp
+  Game.cpp
+  Inventory.cpp
+D:\game project\rush\rush\Game.cpp(16,6): warning C4101:  'ran': unreferenced local variable
+  Player.cpp
+D:\game project\rush\rush\Inventory.cpp(31,45): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\game project\rush\rush\Player.cpp(142,25): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+  SceneState01.cpp
+D:\game project\rush\rush\Player.cpp(147,27): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\game project\rush\rush\SceneState01.cpp(766,50): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\game project\rush\rush\SceneState01.cpp(792,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  main.cpp
+D:\game project\rush\rush\SceneState01.cpp(896,18): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+D:\game project\rush\rush\main.cpp(18,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\game project\rush\rush\SceneState01.cpp(404): warning C4715:  'SceneState01::ramdomPositionSpwan': not all control paths return a value
+  rush.vcxproj -> D:\game project\rush\x64\Debug\rush.exe
